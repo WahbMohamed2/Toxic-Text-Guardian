@@ -1,12 +1,5 @@
 """
 LSTM-based Toxic Text Classification using PyTorch
-
-This script includes:
-- Data loading and NLP preprocessing with NLTK
-- PyTorch LSTM model
-- Training with validation
-- Evaluation with F1 score as primary metric
-- Confusion matrix and performance graphs
 """
 
 import numpy as np
